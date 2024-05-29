@@ -1,0 +1,7 @@
+D:\Sharukhss\cc\mac permutation\bin\Debug\mac permutation.exe.config
+D:\Sharukhss\cc\mac permutation\bin\Debug\mac permutation.exe
+D:\Sharukhss\cc\mac permutation\bin\Debug\mac permutation.pdb
+D:\Sharukhss\cc\mac permutation\obj\Debug\mac permutation.csprojAssemblyReference.cache
+D:\Sharukhss\cc\mac permutation\obj\Debug\mac permutation.csproj.CoreCompileInputs.cache
+D:\Sharukhss\cc\mac permutation\obj\Debug\mac permutation.exe
+D:\Sharukhss\cc\mac permutation\obj\Debug\mac permutation.pdb

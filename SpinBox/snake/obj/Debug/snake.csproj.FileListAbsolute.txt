@@ -1,0 +1,9 @@
+D:\Sharukhss\SpinBox\snake\bin\Debug\snake.exe.config
+D:\Sharukhss\SpinBox\snake\bin\Debug\snake.exe
+D:\Sharukhss\SpinBox\snake\bin\Debug\snake.pdb
+D:\Sharukhss\SpinBox\snake\obj\Debug\snake.Form1.resources
+D:\Sharukhss\SpinBox\snake\obj\Debug\snake.Properties.Resources.resources
+D:\Sharukhss\SpinBox\snake\obj\Debug\snake.csproj.GenerateResource.cache
+D:\Sharukhss\SpinBox\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+D:\Sharukhss\SpinBox\snake\obj\Debug\snake.exe
+D:\Sharukhss\SpinBox\snake\obj\Debug\snake.pdb

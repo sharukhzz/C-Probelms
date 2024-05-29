@@ -1,0 +1,12 @@
+C:\Users\Lucid\source\repos\LoginPAge\job\bin\Debug\job.exe.config
+C:\Users\Lucid\source\repos\LoginPAge\job\bin\Debug\job.exe
+C:\Users\Lucid\source\repos\LoginPAge\job\bin\Debug\job.pdb
+C:\Users\Lucid\source\repos\LoginPAge\job\obj\Debug\job.Form1.resources
+C:\Users\Lucid\source\repos\LoginPAge\job\obj\Debug\job.Properties.Resources.resources
+C:\Users\Lucid\source\repos\LoginPAge\job\obj\Debug\job.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\LoginPAge\job\obj\Debug\job.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\LoginPAge\job\obj\Debug\job.exe
+C:\Users\Lucid\source\repos\LoginPAge\job\obj\Debug\job.pdb
+C:\Users\Lucid\source\repos\LoginPAge\job\obj\Debug\job.UserControl11.resources
+C:\Users\Lucid\source\repos\LoginPAge\job\obj\Debug\job.Edit.resources
+C:\Users\Lucid\source\repos\LoginPAge\job\obj\Debug\job.csprojAssemblyReference.cache

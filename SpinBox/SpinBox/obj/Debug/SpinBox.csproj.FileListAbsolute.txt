@@ -1,0 +1,11 @@
+D:\Sharukhss\SpinBox\SpinBox\bin\Debug\SpinBox.exe.config
+D:\Sharukhss\SpinBox\SpinBox\bin\Debug\SpinBox.exe
+D:\Sharukhss\SpinBox\SpinBox\bin\Debug\SpinBox.pdb
+D:\Sharukhss\SpinBox\SpinBox\obj\Debug\SpinBox.Form1.resources
+D:\Sharukhss\SpinBox\SpinBox\obj\Debug\SpinBox.Properties.Resources.resources
+D:\Sharukhss\SpinBox\SpinBox\obj\Debug\SpinBox.UserControl1.resources
+D:\Sharukhss\SpinBox\SpinBox\obj\Debug\SpinBox.csproj.GenerateResource.cache
+D:\Sharukhss\SpinBox\SpinBox\obj\Debug\SpinBox.csproj.CoreCompileInputs.cache
+D:\Sharukhss\SpinBox\SpinBox\obj\Debug\SpinBox.exe
+D:\Sharukhss\SpinBox\SpinBox\obj\Debug\SpinBox.pdb
+D:\Sharukhss\SpinBox\SpinBox\obj\Debug\SpinBox.csprojAssemblyReference.cache

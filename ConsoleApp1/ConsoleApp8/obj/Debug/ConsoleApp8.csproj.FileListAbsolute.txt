@@ -1,0 +1,7 @@
+D:\Sharukhss\ConsoleApp1\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+D:\Sharukhss\ConsoleApp1\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+D:\Sharukhss\ConsoleApp1\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+D:\Sharukhss\ConsoleApp1\ConsoleApp8\obj\Debug\ConsoleApp8.csprojAssemblyReference.cache
+D:\Sharukhss\ConsoleApp1\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\Sharukhss\ConsoleApp1\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+D:\Sharukhss\ConsoleApp1\ConsoleApp8\obj\Debug\ConsoleApp8.pdb

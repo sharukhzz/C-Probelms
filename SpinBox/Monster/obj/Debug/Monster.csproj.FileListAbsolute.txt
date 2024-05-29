@@ -1,0 +1,12 @@
+D:\Sharukhss\SpinBox\Monster\bin\Debug\Monster.exe.config
+D:\Sharukhss\SpinBox\Monster\bin\Debug\Monster.exe
+D:\Sharukhss\SpinBox\Monster\bin\Debug\Monster.pdb
+D:\Sharukhss\SpinBox\Monster\obj\Debug\Monster.Form1.resources
+D:\Sharukhss\SpinBox\Monster\obj\Debug\Monster.Properties.Resources.resources
+D:\Sharukhss\SpinBox\Monster\obj\Debug\Monster.csproj.GenerateResource.cache
+D:\Sharukhss\SpinBox\Monster\obj\Debug\Monster.csproj.CoreCompileInputs.cache
+D:\Sharukhss\SpinBox\Monster\obj\Debug\Monster.exe
+D:\Sharukhss\SpinBox\Monster\obj\Debug\Monster.pdb
+D:\Sharukhss\SpinBox\Monster\obj\Debug\Monster.killing.resources
+D:\Sharukhss\SpinBox\Monster\obj\Debug\Monster.playground.resources
+D:\Sharukhss\SpinBox\Monster\obj\Debug\Monster.Score.resources

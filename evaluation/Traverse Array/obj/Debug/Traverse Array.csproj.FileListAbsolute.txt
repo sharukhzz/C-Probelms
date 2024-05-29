@@ -1,0 +1,6 @@
+C:\Users\Lucid\source\repos\evaluation\Traverse Array\bin\Debug\Traverse Array.exe.config
+C:\Users\Lucid\source\repos\evaluation\Traverse Array\bin\Debug\Traverse Array.exe
+C:\Users\Lucid\source\repos\evaluation\Traverse Array\bin\Debug\Traverse Array.pdb
+C:\Users\Lucid\source\repos\evaluation\Traverse Array\obj\Debug\Traverse Array.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\evaluation\Traverse Array\obj\Debug\Traverse Array.exe
+C:\Users\Lucid\source\repos\evaluation\Traverse Array\obj\Debug\Traverse Array.pdb

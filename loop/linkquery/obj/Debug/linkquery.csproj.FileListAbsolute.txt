@@ -1,0 +1,7 @@
+D:\Sharukhss\loop\linkquery\obj\Debug\linkquery.csprojAssemblyReference.cache
+D:\Sharukhss\loop\linkquery\obj\Debug\linkquery.csproj.CoreCompileInputs.cache
+D:\Sharukhss\loop\linkquery\bin\Debug\linkquery.exe.config
+D:\Sharukhss\loop\linkquery\bin\Debug\linkquery.exe
+D:\Sharukhss\loop\linkquery\bin\Debug\linkquery.pdb
+D:\Sharukhss\loop\linkquery\obj\Debug\linkquery.exe
+D:\Sharukhss\loop\linkquery\obj\Debug\linkquery.pdb

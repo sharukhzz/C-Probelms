@@ -1,0 +1,10 @@
+D:\Sharukhss\coloumn_row\Snake\bin\Debug\Snake.exe.config
+D:\Sharukhss\coloumn_row\Snake\bin\Debug\Snake.exe
+D:\Sharukhss\coloumn_row\Snake\bin\Debug\Snake.pdb
+D:\Sharukhss\coloumn_row\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\Sharukhss\coloumn_row\Snake\obj\Debug\Snake.Form1.resources
+D:\Sharukhss\coloumn_row\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\Sharukhss\coloumn_row\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\Sharukhss\coloumn_row\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Sharukhss\coloumn_row\Snake\obj\Debug\Snake.exe
+D:\Sharukhss\coloumn_row\Snake\obj\Debug\Snake.pdb

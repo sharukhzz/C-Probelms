@@ -1,0 +1,7 @@
+D:\Sharukhss\cc\k equal sum subset\bin\Debug\k equal sum subset.exe.config
+D:\Sharukhss\cc\k equal sum subset\bin\Debug\k equal sum subset.exe
+D:\Sharukhss\cc\k equal sum subset\bin\Debug\k equal sum subset.pdb
+D:\Sharukhss\cc\k equal sum subset\obj\Debug\k equal sum subset.csprojAssemblyReference.cache
+D:\Sharukhss\cc\k equal sum subset\obj\Debug\k equal sum subset.csproj.CoreCompileInputs.cache
+D:\Sharukhss\cc\k equal sum subset\obj\Debug\k equal sum subset.exe
+D:\Sharukhss\cc\k equal sum subset\obj\Debug\k equal sum subset.pdb

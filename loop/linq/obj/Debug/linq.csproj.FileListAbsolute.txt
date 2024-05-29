@@ -1,0 +1,7 @@
+D:\Sharukhss\loop\linq\bin\Debug\linq.exe.config
+D:\Sharukhss\loop\linq\bin\Debug\linq.exe
+D:\Sharukhss\loop\linq\bin\Debug\linq.pdb
+D:\Sharukhss\loop\linq\obj\Debug\linq.csprojAssemblyReference.cache
+D:\Sharukhss\loop\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+D:\Sharukhss\loop\linq\obj\Debug\linq.exe
+D:\Sharukhss\loop\linq\obj\Debug\linq.pdb

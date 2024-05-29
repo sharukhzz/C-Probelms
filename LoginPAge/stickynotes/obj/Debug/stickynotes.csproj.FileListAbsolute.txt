@@ -1,0 +1,13 @@
+C:\Users\Lucid\source\repos\LoginPAge\stickynotes\bin\Debug\stickynotes.exe.config
+C:\Users\Lucid\source\repos\LoginPAge\stickynotes\bin\Debug\stickynotes.exe
+C:\Users\Lucid\source\repos\LoginPAge\stickynotes\bin\Debug\stickynotes.pdb
+C:\Users\Lucid\source\repos\LoginPAge\stickynotes\obj\Debug\stickynotes.csprojAssemblyReference.cache
+C:\Users\Lucid\source\repos\LoginPAge\stickynotes\obj\Debug\stickynotes.Form1.resources
+C:\Users\Lucid\source\repos\LoginPAge\stickynotes\obj\Debug\stickynotes.Properties.Resources.resources
+C:\Users\Lucid\source\repos\LoginPAge\stickynotes\obj\Debug\stickynotes.UserControl1.resources
+C:\Users\Lucid\source\repos\LoginPAge\stickynotes\obj\Debug\stickynotes.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\LoginPAge\stickynotes\obj\Debug\stickynotes.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\LoginPAge\stickynotes\obj\Debug\stickynotes.exe
+C:\Users\Lucid\source\repos\LoginPAge\stickynotes\obj\Debug\stickynotes.pdb
+C:\Users\Lucid\source\repos\LoginPAge\stickynotes\obj\Debug\stickynotes.Form2.resources
+C:\Users\Lucid\source\repos\LoginPAge\stickynotes\obj\Debug\stickynotes.InsideF.resources

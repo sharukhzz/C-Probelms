@@ -1,0 +1,9 @@
+D:\Sharukhss\incdec\DrawLetter\bin\Debug\DrawLetter.exe.config
+D:\Sharukhss\incdec\DrawLetter\bin\Debug\DrawLetter.exe
+D:\Sharukhss\incdec\DrawLetter\bin\Debug\DrawLetter.pdb
+D:\Sharukhss\incdec\DrawLetter\obj\Debug\DrawLetter.Form1.resources
+D:\Sharukhss\incdec\DrawLetter\obj\Debug\DrawLetter.Properties.Resources.resources
+D:\Sharukhss\incdec\DrawLetter\obj\Debug\DrawLetter.csproj.GenerateResource.cache
+D:\Sharukhss\incdec\DrawLetter\obj\Debug\DrawLetter.csproj.CoreCompileInputs.cache
+D:\Sharukhss\incdec\DrawLetter\obj\Debug\DrawLetter.exe
+D:\Sharukhss\incdec\DrawLetter\obj\Debug\DrawLetter.pdb

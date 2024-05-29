@@ -1,0 +1,9 @@
+D:\Sharukhss\incdec\GAME\bin\Debug\GAME.exe.config
+D:\Sharukhss\incdec\GAME\bin\Debug\GAME.exe
+D:\Sharukhss\incdec\GAME\bin\Debug\GAME.pdb
+D:\Sharukhss\incdec\GAME\obj\Debug\GAME.Form1.resources
+D:\Sharukhss\incdec\GAME\obj\Debug\GAME.Properties.Resources.resources
+D:\Sharukhss\incdec\GAME\obj\Debug\GAME.csproj.GenerateResource.cache
+D:\Sharukhss\incdec\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+D:\Sharukhss\incdec\GAME\obj\Debug\GAME.exe
+D:\Sharukhss\incdec\GAME\obj\Debug\GAME.pdb

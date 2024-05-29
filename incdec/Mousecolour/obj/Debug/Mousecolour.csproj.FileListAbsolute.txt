@@ -1,0 +1,10 @@
+D:\Sharukhss\incdec\Mousecolour\bin\Debug\Mousecolour.exe.config
+D:\Sharukhss\incdec\Mousecolour\bin\Debug\Mousecolour.exe
+D:\Sharukhss\incdec\Mousecolour\bin\Debug\Mousecolour.pdb
+D:\Sharukhss\incdec\Mousecolour\obj\Debug\Mousecolour.Form1.resources
+D:\Sharukhss\incdec\Mousecolour\obj\Debug\Mousecolour.Properties.Resources.resources
+D:\Sharukhss\incdec\Mousecolour\obj\Debug\Mousecolour.csproj.GenerateResource.cache
+D:\Sharukhss\incdec\Mousecolour\obj\Debug\Mousecolour.csproj.CoreCompileInputs.cache
+D:\Sharukhss\incdec\Mousecolour\obj\Debug\Mousecolour.exe
+D:\Sharukhss\incdec\Mousecolour\obj\Debug\Mousecolour.pdb
+D:\Sharukhss\incdec\Mousecolour\obj\Debug\Mousecolour.csprojAssemblyReference.cache

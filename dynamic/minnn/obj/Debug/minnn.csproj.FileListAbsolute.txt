@@ -1,0 +1,7 @@
+D:\Sharukhss\dynamic\minnn\bin\Debug\minnn.exe.config
+D:\Sharukhss\dynamic\minnn\bin\Debug\minnn.exe
+D:\Sharukhss\dynamic\minnn\bin\Debug\minnn.pdb
+D:\Sharukhss\dynamic\minnn\obj\Debug\minnn.csproj.CoreCompileInputs.cache
+D:\Sharukhss\dynamic\minnn\obj\Debug\minnn.exe
+D:\Sharukhss\dynamic\minnn\obj\Debug\minnn.pdb
+D:\Sharukhss\dynamic\minnn\obj\Debug\minnn.csprojAssemblyReference.cache

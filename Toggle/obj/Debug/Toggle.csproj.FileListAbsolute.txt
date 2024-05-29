@@ -1,0 +1,10 @@
+C:\Users\Lucid\source\repos\Toggle\bin\Debug\Toggle.exe.config
+C:\Users\Lucid\source\repos\Toggle\bin\Debug\Toggle.exe
+C:\Users\Lucid\source\repos\Toggle\bin\Debug\Toggle.pdb
+C:\Users\Lucid\source\repos\Toggle\obj\Debug\Toggle.csprojAssemblyReference.cache
+C:\Users\Lucid\source\repos\Toggle\obj\Debug\Toggle.Form1.resources
+C:\Users\Lucid\source\repos\Toggle\obj\Debug\Toggle.Properties.Resources.resources
+C:\Users\Lucid\source\repos\Toggle\obj\Debug\Toggle.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\Toggle\obj\Debug\Toggle.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\Toggle\obj\Debug\Toggle.exe
+C:\Users\Lucid\source\repos\Toggle\obj\Debug\Toggle.pdb

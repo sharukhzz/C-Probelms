@@ -1,0 +1,9 @@
+D:\Sharukhss\SpinBox\License\bin\Debug\License.exe.config
+D:\Sharukhss\SpinBox\License\bin\Debug\License.exe
+D:\Sharukhss\SpinBox\License\bin\Debug\License.pdb
+D:\Sharukhss\SpinBox\License\obj\Debug\License.Form1.resources
+D:\Sharukhss\SpinBox\License\obj\Debug\License.Properties.Resources.resources
+D:\Sharukhss\SpinBox\License\obj\Debug\License.csproj.GenerateResource.cache
+D:\Sharukhss\SpinBox\License\obj\Debug\License.csproj.CoreCompileInputs.cache
+D:\Sharukhss\SpinBox\License\obj\Debug\License.exe
+D:\Sharukhss\SpinBox\License\obj\Debug\License.pdb

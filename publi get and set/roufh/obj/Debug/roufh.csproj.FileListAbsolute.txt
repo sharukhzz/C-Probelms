@@ -1,0 +1,7 @@
+D:\Sharukhss\publi get and set\roufh\obj\Debug\roufh.csprojAssemblyReference.cache
+D:\Sharukhss\publi get and set\roufh\obj\Debug\roufh.csproj.CoreCompileInputs.cache
+D:\Sharukhss\publi get and set\roufh\bin\Debug\roufh.exe.config
+D:\Sharukhss\publi get and set\roufh\bin\Debug\roufh.exe
+D:\Sharukhss\publi get and set\roufh\bin\Debug\roufh.pdb
+D:\Sharukhss\publi get and set\roufh\obj\Debug\roufh.exe
+D:\Sharukhss\publi get and set\roufh\obj\Debug\roufh.pdb

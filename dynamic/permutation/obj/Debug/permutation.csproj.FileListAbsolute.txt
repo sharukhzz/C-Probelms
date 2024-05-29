@@ -1,0 +1,7 @@
+D:\Sharukhss\cc\permutation\bin\Debug\permutation.exe.config
+D:\Sharukhss\cc\permutation\bin\Debug\permutation.exe
+D:\Sharukhss\cc\permutation\bin\Debug\permutation.pdb
+D:\Sharukhss\cc\permutation\obj\Debug\permutation.csprojAssemblyReference.cache
+D:\Sharukhss\cc\permutation\obj\Debug\permutation.csproj.CoreCompileInputs.cache
+D:\Sharukhss\cc\permutation\obj\Debug\permutation.exe
+D:\Sharukhss\cc\permutation\obj\Debug\permutation.pdb

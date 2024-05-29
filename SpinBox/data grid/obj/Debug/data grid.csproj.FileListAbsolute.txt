@@ -1,0 +1,9 @@
+D:\Sharukhss\SpinBox\data grid\bin\Debug\data grid.exe.config
+D:\Sharukhss\SpinBox\data grid\bin\Debug\data grid.exe
+D:\Sharukhss\SpinBox\data grid\bin\Debug\data grid.pdb
+D:\Sharukhss\SpinBox\data grid\obj\Debug\data_grid.Form1.resources
+D:\Sharukhss\SpinBox\data grid\obj\Debug\data_grid.Properties.Resources.resources
+D:\Sharukhss\SpinBox\data grid\obj\Debug\data grid.csproj.GenerateResource.cache
+D:\Sharukhss\SpinBox\data grid\obj\Debug\data grid.csproj.CoreCompileInputs.cache
+D:\Sharukhss\SpinBox\data grid\obj\Debug\data grid.exe
+D:\Sharukhss\SpinBox\data grid\obj\Debug\data grid.pdb

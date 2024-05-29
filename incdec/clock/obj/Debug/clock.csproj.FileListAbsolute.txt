@@ -1,0 +1,10 @@
+D:\Sharukhss\incdec\clock\bin\Debug\clock.exe.config
+D:\Sharukhss\incdec\clock\bin\Debug\clock.exe
+D:\Sharukhss\incdec\clock\bin\Debug\clock.pdb
+D:\Sharukhss\incdec\clock\obj\Debug\clock.csprojAssemblyReference.cache
+D:\Sharukhss\incdec\clock\obj\Debug\clock.Form1.resources
+D:\Sharukhss\incdec\clock\obj\Debug\clock.Properties.Resources.resources
+D:\Sharukhss\incdec\clock\obj\Debug\clock.csproj.GenerateResource.cache
+D:\Sharukhss\incdec\clock\obj\Debug\clock.csproj.CoreCompileInputs.cache
+D:\Sharukhss\incdec\clock\obj\Debug\clock.exe
+D:\Sharukhss\incdec\clock\obj\Debug\clock.pdb

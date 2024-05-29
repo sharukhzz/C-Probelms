@@ -1,0 +1,10 @@
+D:\Sharukhss\incdec\incdec\bin\Debug\incdec.exe.config
+D:\Sharukhss\incdec\incdec\bin\Debug\incdec.exe
+D:\Sharukhss\incdec\incdec\bin\Debug\incdec.pdb
+D:\Sharukhss\incdec\incdec\obj\Debug\incdec.Form1.resources
+D:\Sharukhss\incdec\incdec\obj\Debug\incdec.Properties.Resources.resources
+D:\Sharukhss\incdec\incdec\obj\Debug\incdec.csproj.GenerateResource.cache
+D:\Sharukhss\incdec\incdec\obj\Debug\incdec.csproj.CoreCompileInputs.cache
+D:\Sharukhss\incdec\incdec\obj\Debug\incdec.exe
+D:\Sharukhss\incdec\incdec\obj\Debug\incdec.pdb
+D:\Sharukhss\incdec\incdec\obj\Debug\incdec.Form2.resources

@@ -1,0 +1,7 @@
+D:\Sharukhss\dynamic\mincoin2\bin\Debug\mincoin2.exe.config
+D:\Sharukhss\dynamic\mincoin2\bin\Debug\mincoin2.exe
+D:\Sharukhss\dynamic\mincoin2\bin\Debug\mincoin2.pdb
+D:\Sharukhss\dynamic\mincoin2\obj\Debug\mincoin2.csprojAssemblyReference.cache
+D:\Sharukhss\dynamic\mincoin2\obj\Debug\mincoin2.csproj.CoreCompileInputs.cache
+D:\Sharukhss\dynamic\mincoin2\obj\Debug\mincoin2.exe
+D:\Sharukhss\dynamic\mincoin2\obj\Debug\mincoin2.pdb

@@ -1,0 +1,7 @@
+D:\Sharukhss\cc\problems\bin\Debug\problems.exe.config
+D:\Sharukhss\cc\problems\bin\Debug\problems.exe
+D:\Sharukhss\cc\problems\bin\Debug\problems.pdb
+D:\Sharukhss\cc\problems\obj\Debug\problems.csprojAssemblyReference.cache
+D:\Sharukhss\cc\problems\obj\Debug\problems.csproj.CoreCompileInputs.cache
+D:\Sharukhss\cc\problems\obj\Debug\problems.exe
+D:\Sharukhss\cc\problems\obj\Debug\problems.pdb

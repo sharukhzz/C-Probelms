@@ -1,0 +1,7 @@
+D:\Sharukhss\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Sharukhss\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Sharukhss\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Sharukhss\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\Sharukhss\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Sharukhss\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Sharukhss\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

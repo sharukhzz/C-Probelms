@@ -1,0 +1,9 @@
+D:\Sharukhss\incdec\SplitRectangles\bin\Debug\SplitRectangles.exe.config
+D:\Sharukhss\incdec\SplitRectangles\bin\Debug\SplitRectangles.exe
+D:\Sharukhss\incdec\SplitRectangles\bin\Debug\SplitRectangles.pdb
+D:\Sharukhss\incdec\SplitRectangles\obj\Debug\SplitRectangles.Form1.resources
+D:\Sharukhss\incdec\SplitRectangles\obj\Debug\SplitRectangles.Properties.Resources.resources
+D:\Sharukhss\incdec\SplitRectangles\obj\Debug\SplitRectangles.csproj.GenerateResource.cache
+D:\Sharukhss\incdec\SplitRectangles\obj\Debug\SplitRectangles.csproj.CoreCompileInputs.cache
+D:\Sharukhss\incdec\SplitRectangles\obj\Debug\SplitRectangles.exe
+D:\Sharukhss\incdec\SplitRectangles\obj\Debug\SplitRectangles.pdb

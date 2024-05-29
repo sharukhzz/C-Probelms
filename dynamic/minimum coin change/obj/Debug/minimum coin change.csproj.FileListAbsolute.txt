@@ -1,0 +1,14 @@
+D:\Sharukhss\cc\minimum coin change\bin\Debug\minimum coin change.exe.config
+D:\Sharukhss\cc\minimum coin change\bin\Debug\minimum coin change.exe
+D:\Sharukhss\cc\minimum coin change\bin\Debug\minimum coin change.pdb
+D:\Sharukhss\cc\minimum coin change\obj\Debug\minimum coin change.csprojAssemblyReference.cache
+D:\Sharukhss\cc\minimum coin change\obj\Debug\minimum coin change.csproj.CoreCompileInputs.cache
+D:\Sharukhss\cc\minimum coin change\obj\Debug\minimum coin change.exe
+D:\Sharukhss\cc\minimum coin change\obj\Debug\minimum coin change.pdb
+D:\Sharukhss\dynamic\minimum coin change\bin\Debug\minimum coin change.exe.config
+D:\Sharukhss\dynamic\minimum coin change\bin\Debug\minimum coin change.exe
+D:\Sharukhss\dynamic\minimum coin change\bin\Debug\minimum coin change.pdb
+D:\Sharukhss\dynamic\minimum coin change\obj\Debug\minimum coin change.csprojAssemblyReference.cache
+D:\Sharukhss\dynamic\minimum coin change\obj\Debug\minimum coin change.csproj.CoreCompileInputs.cache
+D:\Sharukhss\dynamic\minimum coin change\obj\Debug\minimum coin change.exe
+D:\Sharukhss\dynamic\minimum coin change\obj\Debug\minimum coin change.pdb

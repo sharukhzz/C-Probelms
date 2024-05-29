@@ -1,0 +1,7 @@
+D:\Sharukhss\loop\directions\bin\Debug\directions.exe.config
+D:\Sharukhss\loop\directions\bin\Debug\directions.exe
+D:\Sharukhss\loop\directions\bin\Debug\directions.pdb
+D:\Sharukhss\loop\directions\obj\Debug\directions.csprojAssemblyReference.cache
+D:\Sharukhss\loop\directions\obj\Debug\directions.csproj.CoreCompileInputs.cache
+D:\Sharukhss\loop\directions\obj\Debug\directions.exe
+D:\Sharukhss\loop\directions\obj\Debug\directions.pdb

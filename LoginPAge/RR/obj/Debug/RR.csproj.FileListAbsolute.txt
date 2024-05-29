@@ -1,0 +1,11 @@
+C:\Users\Lucid\source\repos\LoginPAge\RR\bin\Debug\RR.exe.config
+C:\Users\Lucid\source\repos\LoginPAge\RR\bin\Debug\RR.exe
+C:\Users\Lucid\source\repos\LoginPAge\RR\bin\Debug\RR.pdb
+C:\Users\Lucid\source\repos\LoginPAge\RR\obj\Debug\RR.csprojAssemblyReference.cache
+C:\Users\Lucid\source\repos\LoginPAge\RR\obj\Debug\RR.Properties.Resources.resources
+C:\Users\Lucid\source\repos\LoginPAge\RR\obj\Debug\RR.Userr.resources
+C:\Users\Lucid\source\repos\LoginPAge\RR\obj\Debug\RR.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\LoginPAge\RR\obj\Debug\RR.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\LoginPAge\RR\obj\Debug\RR.exe
+C:\Users\Lucid\source\repos\LoginPAge\RR\obj\Debug\RR.pdb
+C:\Users\Lucid\source\repos\LoginPAge\RR\obj\Debug\RR.Form1.resources

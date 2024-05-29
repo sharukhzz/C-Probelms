@@ -1,0 +1,12 @@
+D:\Sharukhss\coloumn_row\tictactoe\bin\Debug\tictactoe.exe.config
+D:\Sharukhss\coloumn_row\tictactoe\bin\Debug\tictactoe.exe
+D:\Sharukhss\coloumn_row\tictactoe\bin\Debug\tictactoe.pdb
+D:\Sharukhss\coloumn_row\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+D:\Sharukhss\coloumn_row\tictactoe\obj\Debug\tictactoe.Form1.resources
+D:\Sharukhss\coloumn_row\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+D:\Sharukhss\coloumn_row\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+D:\Sharukhss\coloumn_row\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+D:\Sharukhss\coloumn_row\tictactoe\obj\Debug\tictactoe.exe
+D:\Sharukhss\coloumn_row\tictactoe\obj\Debug\tictactoe.pdb
+D:\Sharukhss\coloumn_row\tictactoe\obj\Debug\tictactoe.Resource1.resources
+D:\Sharukhss\coloumn_row\tictactoe\obj\Debug\tictactoe.Form2.resources

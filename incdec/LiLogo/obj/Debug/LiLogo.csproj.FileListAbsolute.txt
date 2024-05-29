@@ -1,0 +1,10 @@
+D:\Sharukhss\incdec\LiLogo\bin\Debug\LiLogo.exe.config
+D:\Sharukhss\incdec\LiLogo\bin\Debug\LiLogo.exe
+D:\Sharukhss\incdec\LiLogo\bin\Debug\LiLogo.pdb
+D:\Sharukhss\incdec\LiLogo\obj\Debug\LiLogo.Properties.Resources.resources
+D:\Sharukhss\incdec\LiLogo\obj\Debug\LiLogo.csproj.GenerateResource.cache
+D:\Sharukhss\incdec\LiLogo\obj\Debug\LiLogo.csproj.CoreCompileInputs.cache
+D:\Sharukhss\incdec\LiLogo\obj\Debug\LiLogo.exe
+D:\Sharukhss\incdec\LiLogo\obj\Debug\LiLogo.pdb
+D:\Sharukhss\incdec\LiLogo\obj\Debug\LiLogo.Form1.resources
+D:\Sharukhss\incdec\LiLogo\obj\Debug\LiLogo.csprojAssemblyReference.cache

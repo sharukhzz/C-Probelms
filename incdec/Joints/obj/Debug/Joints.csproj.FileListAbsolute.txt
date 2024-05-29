@@ -1,0 +1,10 @@
+D:\Sharukhss\incdec\Joints\bin\Debug\Joints.exe.config
+D:\Sharukhss\incdec\Joints\bin\Debug\Joints.exe
+D:\Sharukhss\incdec\Joints\bin\Debug\Joints.pdb
+D:\Sharukhss\incdec\Joints\obj\Debug\Joints.Form1.resources
+D:\Sharukhss\incdec\Joints\obj\Debug\Joints.Properties.Resources.resources
+D:\Sharukhss\incdec\Joints\obj\Debug\Joints.csproj.GenerateResource.cache
+D:\Sharukhss\incdec\Joints\obj\Debug\Joints.csproj.CoreCompileInputs.cache
+D:\Sharukhss\incdec\Joints\obj\Debug\Joints.exe
+D:\Sharukhss\incdec\Joints\obj\Debug\Joints.pdb
+D:\Sharukhss\incdec\Joints\obj\Debug\Joints.csprojAssemblyReference.cache

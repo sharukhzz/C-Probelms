@@ -1,0 +1,7 @@
+c:\users\lucid\source\repos\evaluation\evaluation\obj\Debug\evaluation.csprojAssemblyReference.cache
+c:\users\lucid\source\repos\evaluation\evaluation\obj\Debug\evaluation.csproj.CoreCompileInputs.cache
+c:\users\lucid\source\repos\evaluation\evaluation\bin\Debug\evaluation.exe.config
+c:\users\lucid\source\repos\evaluation\evaluation\bin\Debug\evaluation.exe
+c:\users\lucid\source\repos\evaluation\evaluation\bin\Debug\evaluation.pdb
+c:\users\lucid\source\repos\evaluation\evaluation\obj\Debug\evaluation.exe
+c:\users\lucid\source\repos\evaluation\evaluation\obj\Debug\evaluation.pdb

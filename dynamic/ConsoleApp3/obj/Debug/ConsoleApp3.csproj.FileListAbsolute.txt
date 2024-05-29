@@ -1,0 +1,14 @@
+D:\Sharukhss\cc\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Sharukhss\cc\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Sharukhss\cc\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Sharukhss\cc\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Sharukhss\cc\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Sharukhss\cc\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\Sharukhss\cc\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\Sharukhss\dynamic\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\Sharukhss\dynamic\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Sharukhss\dynamic\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Sharukhss\dynamic\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\Sharukhss\dynamic\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Sharukhss\dynamic\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Sharukhss\dynamic\ConsoleApp3\bin\Debug\ConsoleApp3.pdb

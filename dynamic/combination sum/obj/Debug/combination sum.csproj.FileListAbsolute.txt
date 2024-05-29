@@ -1,0 +1,14 @@
+D:\Sharukhss\cc\combination sum\bin\Debug\combination sum.exe.config
+D:\Sharukhss\cc\combination sum\bin\Debug\combination sum.exe
+D:\Sharukhss\cc\combination sum\bin\Debug\combination sum.pdb
+D:\Sharukhss\cc\combination sum\obj\Debug\combination sum.csprojAssemblyReference.cache
+D:\Sharukhss\cc\combination sum\obj\Debug\combination sum.csproj.CoreCompileInputs.cache
+D:\Sharukhss\cc\combination sum\obj\Debug\combination sum.exe
+D:\Sharukhss\cc\combination sum\obj\Debug\combination sum.pdb
+D:\Sharukhss\dynamic\combination sum\bin\Debug\combination sum.exe.config
+D:\Sharukhss\dynamic\combination sum\bin\Debug\combination sum.exe
+D:\Sharukhss\dynamic\combination sum\bin\Debug\combination sum.pdb
+D:\Sharukhss\dynamic\combination sum\obj\Debug\combination sum.csprojAssemblyReference.cache
+D:\Sharukhss\dynamic\combination sum\obj\Debug\combination sum.csproj.CoreCompileInputs.cache
+D:\Sharukhss\dynamic\combination sum\obj\Debug\combination sum.exe
+D:\Sharukhss\dynamic\combination sum\obj\Debug\combination sum.pdb

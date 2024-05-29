@@ -1,0 +1,16 @@
+c:\users\lucid\source\repos\user control\user control\bin\Debug\user control.exe.config
+c:\users\lucid\source\repos\user control\user control\bin\Debug\user control.exe
+c:\users\lucid\source\repos\user control\user control\bin\Debug\user control.pdb
+c:\users\lucid\source\repos\user control\user control\obj\Debug\UserControl1.g.cs
+c:\users\lucid\source\repos\user control\user control\obj\Debug\user control_MarkupCompile.cache
+c:\users\lucid\source\repos\user control\user control\obj\Debug\user control_MarkupCompile.lref
+c:\users\lucid\source\repos\user control\user control\obj\Debug\UserControl1.baml
+c:\users\lucid\source\repos\user control\user control\obj\Debug\user control.g.resources
+c:\users\lucid\source\repos\user control\user control\obj\Debug\user_control.Form1.resources
+c:\users\lucid\source\repos\user control\user control\obj\Debug\user_control.Properties.Resources.resources
+c:\users\lucid\source\repos\user control\user control\obj\Debug\user_control.UserControl2.resources
+c:\users\lucid\source\repos\user control\user control\obj\Debug\user control.csproj.GenerateResource.cache
+c:\users\lucid\source\repos\user control\user control\obj\Debug\user control.csproj.CoreCompileInputs.cache
+c:\users\lucid\source\repos\user control\user control\obj\Debug\user control.exe
+c:\users\lucid\source\repos\user control\user control\obj\Debug\user control.pdb
+c:\users\lucid\source\repos\user control\user control\obj\Debug\user control.csprojAssemblyReference.cache

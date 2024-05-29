@@ -1,0 +1,7 @@
+D:\Sharukhss\dynamic\array rec\bin\Debug\array rec.exe.config
+D:\Sharukhss\dynamic\array rec\bin\Debug\array rec.exe
+D:\Sharukhss\dynamic\array rec\bin\Debug\array rec.pdb
+D:\Sharukhss\dynamic\array rec\obj\Debug\array rec.csprojAssemblyReference.cache
+D:\Sharukhss\dynamic\array rec\obj\Debug\array rec.csproj.CoreCompileInputs.cache
+D:\Sharukhss\dynamic\array rec\obj\Debug\array rec.exe
+D:\Sharukhss\dynamic\array rec\obj\Debug\array rec.pdb

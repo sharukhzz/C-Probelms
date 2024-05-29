@@ -1,0 +1,10 @@
+C:\Users\Lucid\source\repos\Resizelabel\roufh\obj\Debug\roufh.csprojAssemblyReference.cache
+C:\Users\Lucid\source\repos\Resizelabel\roufh\obj\Debug\roufh.Form1.resources
+C:\Users\Lucid\source\repos\Resizelabel\roufh\obj\Debug\roufh.Properties.Resources.resources
+C:\Users\Lucid\source\repos\Resizelabel\roufh\obj\Debug\roufh.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\Resizelabel\roufh\obj\Debug\roufh.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\Resizelabel\roufh\bin\Debug\roufh.exe.config
+C:\Users\Lucid\source\repos\Resizelabel\roufh\bin\Debug\roufh.exe
+C:\Users\Lucid\source\repos\Resizelabel\roufh\bin\Debug\roufh.pdb
+C:\Users\Lucid\source\repos\Resizelabel\roufh\obj\Debug\roufh.exe
+C:\Users\Lucid\source\repos\Resizelabel\roufh\obj\Debug\roufh.pdb

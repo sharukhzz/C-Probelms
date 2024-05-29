@@ -1,0 +1,10 @@
+D:\Sharukhss\TrainingNew\ShapesFormsApp\bin\Debug\ShapesFormsApp.exe.config
+D:\Sharukhss\TrainingNew\ShapesFormsApp\bin\Debug\ShapesFormsApp.exe
+D:\Sharukhss\TrainingNew\ShapesFormsApp\bin\Debug\ShapesFormsApp.pdb
+D:\Sharukhss\TrainingNew\ShapesFormsApp\obj\Debug\ShapesFormsApp.csprojAssemblyReference.cache
+D:\Sharukhss\TrainingNew\ShapesFormsApp\obj\Debug\ShapesFormsApp.Form1.resources
+D:\Sharukhss\TrainingNew\ShapesFormsApp\obj\Debug\ShapesFormsApp.Properties.Resources.resources
+D:\Sharukhss\TrainingNew\ShapesFormsApp\obj\Debug\ShapesFormsApp.csproj.GenerateResource.cache
+D:\Sharukhss\TrainingNew\ShapesFormsApp\obj\Debug\ShapesFormsApp.csproj.CoreCompileInputs.cache
+D:\Sharukhss\TrainingNew\ShapesFormsApp\obj\Debug\ShapesFormsApp.exe
+D:\Sharukhss\TrainingNew\ShapesFormsApp\obj\Debug\ShapesFormsApp.pdb

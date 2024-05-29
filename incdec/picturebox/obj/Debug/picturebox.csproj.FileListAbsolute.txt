@@ -1,0 +1,9 @@
+D:\Sharukhss\incdec\picturebox\bin\Debug\picturebox.exe.config
+D:\Sharukhss\incdec\picturebox\bin\Debug\picturebox.exe
+D:\Sharukhss\incdec\picturebox\bin\Debug\picturebox.pdb
+D:\Sharukhss\incdec\picturebox\obj\Debug\picturebox.Form1.resources
+D:\Sharukhss\incdec\picturebox\obj\Debug\picturebox.Properties.Resources.resources
+D:\Sharukhss\incdec\picturebox\obj\Debug\picturebox.csproj.GenerateResource.cache
+D:\Sharukhss\incdec\picturebox\obj\Debug\picturebox.csproj.CoreCompileInputs.cache
+D:\Sharukhss\incdec\picturebox\obj\Debug\picturebox.exe
+D:\Sharukhss\incdec\picturebox\obj\Debug\picturebox.pdb

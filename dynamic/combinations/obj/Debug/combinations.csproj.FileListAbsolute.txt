@@ -1,0 +1,7 @@
+D:\Sharukhss\cc\combinations\bin\Debug\combinations.exe.config
+D:\Sharukhss\cc\combinations\bin\Debug\combinations.exe
+D:\Sharukhss\cc\combinations\bin\Debug\combinations.pdb
+D:\Sharukhss\cc\combinations\obj\Debug\combinations.csprojAssemblyReference.cache
+D:\Sharukhss\cc\combinations\obj\Debug\combinations.csproj.CoreCompileInputs.cache
+D:\Sharukhss\cc\combinations\obj\Debug\combinations.exe
+D:\Sharukhss\cc\combinations\obj\Debug\combinations.pdb

@@ -1,0 +1,10 @@
+D:\Sharukhss\TrainingNew\Zoo\bin\Debug\Zoo.exe.config
+D:\Sharukhss\TrainingNew\Zoo\bin\Debug\Zoo.exe
+D:\Sharukhss\TrainingNew\Zoo\bin\Debug\Zoo.pdb
+D:\Sharukhss\TrainingNew\Zoo\obj\Debug\Zoo.csprojAssemblyReference.cache
+D:\Sharukhss\TrainingNew\Zoo\obj\Debug\Zoo.Form1.resources
+D:\Sharukhss\TrainingNew\Zoo\obj\Debug\Zoo.Properties.Resources.resources
+D:\Sharukhss\TrainingNew\Zoo\obj\Debug\Zoo.csproj.GenerateResource.cache
+D:\Sharukhss\TrainingNew\Zoo\obj\Debug\Zoo.csproj.CoreCompileInputs.cache
+D:\Sharukhss\TrainingNew\Zoo\obj\Debug\Zoo.exe
+D:\Sharukhss\TrainingNew\Zoo\obj\Debug\Zoo.pdb

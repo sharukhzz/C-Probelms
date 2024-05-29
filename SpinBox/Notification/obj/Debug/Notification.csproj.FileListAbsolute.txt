@@ -1,0 +1,10 @@
+D:\Sharukhss\SpinBox\Notification\bin\Debug\Notification.exe.config
+D:\Sharukhss\SpinBox\Notification\bin\Debug\Notification.exe
+D:\Sharukhss\SpinBox\Notification\bin\Debug\Notification.pdb
+D:\Sharukhss\SpinBox\Notification\obj\Debug\Notification.Form1.resources
+D:\Sharukhss\SpinBox\Notification\obj\Debug\Notification.Properties.Resources.resources
+D:\Sharukhss\SpinBox\Notification\obj\Debug\Notification.csproj.GenerateResource.cache
+D:\Sharukhss\SpinBox\Notification\obj\Debug\Notification.csproj.CoreCompileInputs.cache
+D:\Sharukhss\SpinBox\Notification\obj\Debug\Notification.exe
+D:\Sharukhss\SpinBox\Notification\obj\Debug\Notification.pdb
+D:\Sharukhss\SpinBox\Notification\obj\Debug\Notification.Form2.resources

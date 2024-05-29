@@ -1,0 +1,7 @@
+D:\Sharukhss\dynamic\Alph\bin\Debug\Alph.exe.config
+D:\Sharukhss\dynamic\Alph\bin\Debug\Alph.exe
+D:\Sharukhss\dynamic\Alph\bin\Debug\Alph.pdb
+D:\Sharukhss\dynamic\Alph\obj\Debug\Alph.csprojAssemblyReference.cache
+D:\Sharukhss\dynamic\Alph\obj\Debug\Alph.csproj.CoreCompileInputs.cache
+D:\Sharukhss\dynamic\Alph\obj\Debug\Alph.exe
+D:\Sharukhss\dynamic\Alph\obj\Debug\Alph.pdb

@@ -1,0 +1,7 @@
+D:\Sharukhss\cc\parentheses\bin\Debug\parentheses.exe.config
+D:\Sharukhss\cc\parentheses\bin\Debug\parentheses.exe
+D:\Sharukhss\cc\parentheses\bin\Debug\parentheses.pdb
+D:\Sharukhss\cc\parentheses\obj\Debug\parentheses.csprojAssemblyReference.cache
+D:\Sharukhss\cc\parentheses\obj\Debug\parentheses.csproj.CoreCompileInputs.cache
+D:\Sharukhss\cc\parentheses\obj\Debug\parentheses.exe
+D:\Sharukhss\cc\parentheses\obj\Debug\parentheses.pdb

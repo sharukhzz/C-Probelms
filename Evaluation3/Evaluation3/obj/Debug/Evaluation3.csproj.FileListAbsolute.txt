@@ -1,0 +1,10 @@
+D:\Sharukhss\Evaluation3\Evaluation3\obj\Debug\Evaluation3.Properties.Resources.resources
+D:\Sharukhss\Evaluation3\Evaluation3\obj\Debug\Evaluation3.csproj.GenerateResource.cache
+D:\Sharukhss\Evaluation3\Evaluation3\obj\Debug\Evaluation3.csproj.CoreCompileInputs.cache
+D:\Sharukhss\Evaluation3\Evaluation3\bin\Debug\Evaluation3.exe.config
+D:\Sharukhss\Evaluation3\Evaluation3\bin\Debug\Evaluation3.exe
+D:\Sharukhss\Evaluation3\Evaluation3\bin\Debug\Evaluation3.pdb
+D:\Sharukhss\Evaluation3\Evaluation3\obj\Debug\Evaluation3.exe
+D:\Sharukhss\Evaluation3\Evaluation3\obj\Debug\Evaluation3.pdb
+D:\Sharukhss\Evaluation3\Evaluation3\obj\Debug\Evaluation3.Form1.resources
+D:\Sharukhss\Evaluation3\Evaluation3\obj\Debug\Evaluation3.csprojAssemblyReference.cache

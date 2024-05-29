@@ -1,0 +1,12 @@
+c:\users\lucid\source\repos\dbsample\dbsample\obj\Debug\dbsample.csprojAssemblyReference.cache
+c:\users\lucid\source\repos\dbsample\dbsample\obj\Debug\dbsample.Form1.resources
+c:\users\lucid\source\repos\dbsample\dbsample\obj\Debug\dbsample.Properties.Resources.resources
+c:\users\lucid\source\repos\dbsample\dbsample\obj\Debug\dbsample.csproj.GenerateResource.cache
+c:\users\lucid\source\repos\dbsample\dbsample\obj\Debug\dbsample.csproj.CoreCompileInputs.cache
+c:\users\lucid\source\repos\dbsample\dbsample\bin\Debug\dbsample.exe.config
+c:\users\lucid\source\repos\dbsample\dbsample\bin\Debug\dbsample.exe
+c:\users\lucid\source\repos\dbsample\dbsample\bin\Debug\dbsample.pdb
+c:\users\lucid\source\repos\dbsample\dbsample\bin\Debug\MySql.Data.dll
+c:\users\lucid\source\repos\dbsample\dbsample\obj\Debug\dbsample.csproj.CopyComplete
+c:\users\lucid\source\repos\dbsample\dbsample\obj\Debug\dbsample.exe
+c:\users\lucid\source\repos\dbsample\dbsample\obj\Debug\dbsample.pdb

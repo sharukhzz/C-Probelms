@@ -1,0 +1,9 @@
+D:\Sharukhss\SpinBox\chatbox\bin\Debug\chatbox.exe.config
+D:\Sharukhss\SpinBox\chatbox\bin\Debug\chatbox.exe
+D:\Sharukhss\SpinBox\chatbox\bin\Debug\chatbox.pdb
+D:\Sharukhss\SpinBox\chatbox\obj\Debug\chatbox.Form1.resources
+D:\Sharukhss\SpinBox\chatbox\obj\Debug\chatbox.Properties.Resources.resources
+D:\Sharukhss\SpinBox\chatbox\obj\Debug\chatbox.csproj.GenerateResource.cache
+D:\Sharukhss\SpinBox\chatbox\obj\Debug\chatbox.csproj.CoreCompileInputs.cache
+D:\Sharukhss\SpinBox\chatbox\obj\Debug\chatbox.exe
+D:\Sharukhss\SpinBox\chatbox\obj\Debug\chatbox.pdb

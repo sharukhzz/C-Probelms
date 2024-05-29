@@ -1,0 +1,11 @@
+C:\Users\Lucid\source\repos\Resizelabel\shapes\bin\Debug\shapes.exe.config
+C:\Users\Lucid\source\repos\Resizelabel\shapes\bin\Debug\shapes.exe
+C:\Users\Lucid\source\repos\Resizelabel\shapes\bin\Debug\shapes.pdb
+C:\Users\Lucid\source\repos\Resizelabel\shapes\obj\Debug\shapes.Properties.Resources.resources
+C:\Users\Lucid\source\repos\Resizelabel\shapes\obj\Debug\shapes.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\Resizelabel\shapes\obj\Debug\shapes.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\Resizelabel\shapes\obj\Debug\shapes.exe
+C:\Users\Lucid\source\repos\Resizelabel\shapes\obj\Debug\shapes.pdb
+C:\Users\Lucid\source\repos\Resizelabel\shapes\obj\Debug\shapes.Resource1.resources
+C:\Users\Lucid\source\repos\Resizelabel\shapes\obj\Debug\shapes.csprojAssemblyReference.cache
+C:\Users\Lucid\source\repos\Resizelabel\shapes\obj\Debug\shapes.Form.resources

@@ -1,0 +1,11 @@
+C:\Users\Lucid\source\repos\Evaluation2Part2\Evaluation2Part2\bin\Debug\Evaluation2Part2.exe.config
+C:\Users\Lucid\source\repos\Evaluation2Part2\Evaluation2Part2\bin\Debug\Evaluation2Part2.exe
+C:\Users\Lucid\source\repos\Evaluation2Part2\Evaluation2Part2\bin\Debug\Evaluation2Part2.pdb
+C:\Users\Lucid\source\repos\Evaluation2Part2\Evaluation2Part2\obj\Debug\Evaluation2Part2.csprojAssemblyReference.cache
+C:\Users\Lucid\source\repos\Evaluation2Part2\Evaluation2Part2\obj\Debug\Evaluation2Part2.Calendar.resources
+C:\Users\Lucid\source\repos\Evaluation2Part2\Evaluation2Part2\obj\Debug\Evaluation2Part2.Form1.resources
+C:\Users\Lucid\source\repos\Evaluation2Part2\Evaluation2Part2\obj\Debug\Evaluation2Part2.Properties.Resources.resources
+C:\Users\Lucid\source\repos\Evaluation2Part2\Evaluation2Part2\obj\Debug\Evaluation2Part2.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\Evaluation2Part2\Evaluation2Part2\obj\Debug\Evaluation2Part2.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\Evaluation2Part2\Evaluation2Part2\obj\Debug\Evaluation2Part2.exe
+C:\Users\Lucid\source\repos\Evaluation2Part2\Evaluation2Part2\obj\Debug\Evaluation2Part2.pdb

@@ -1,0 +1,7 @@
+D:\Sharukhss\publi get and set\leetcode\bin\Debug\leetcode.exe.config
+D:\Sharukhss\publi get and set\leetcode\bin\Debug\leetcode.exe
+D:\Sharukhss\publi get and set\leetcode\bin\Debug\leetcode.pdb
+D:\Sharukhss\publi get and set\leetcode\obj\Debug\leetcode.csprojAssemblyReference.cache
+D:\Sharukhss\publi get and set\leetcode\obj\Debug\leetcode.csproj.CoreCompileInputs.cache
+D:\Sharukhss\publi get and set\leetcode\obj\Debug\leetcode.exe
+D:\Sharukhss\publi get and set\leetcode\obj\Debug\leetcode.pdb

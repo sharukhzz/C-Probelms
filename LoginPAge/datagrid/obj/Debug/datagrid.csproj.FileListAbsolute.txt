@@ -1,0 +1,10 @@
+C:\Users\Lucid\source\repos\LoginPAge\datagrid\bin\Debug\datagrid.exe.config
+C:\Users\Lucid\source\repos\LoginPAge\datagrid\bin\Debug\datagrid.exe
+C:\Users\Lucid\source\repos\LoginPAge\datagrid\bin\Debug\datagrid.pdb
+C:\Users\Lucid\source\repos\LoginPAge\datagrid\obj\Debug\datagrid.Form1.resources
+C:\Users\Lucid\source\repos\LoginPAge\datagrid\obj\Debug\datagrid.Properties.Resources.resources
+C:\Users\Lucid\source\repos\LoginPAge\datagrid\obj\Debug\datagrid.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\LoginPAge\datagrid\obj\Debug\datagrid.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\LoginPAge\datagrid\obj\Debug\datagrid.exe
+C:\Users\Lucid\source\repos\LoginPAge\datagrid\obj\Debug\datagrid.pdb
+C:\Users\Lucid\source\repos\LoginPAge\datagrid\obj\Debug\datagrid.csprojAssemblyReference.cache

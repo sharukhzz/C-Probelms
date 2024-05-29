@@ -1,0 +1,10 @@
+c:\users\lucid\source\repos\Resizelabel\Resizelabel\bin\Debug\Resizelabel.exe.config
+c:\users\lucid\source\repos\Resizelabel\Resizelabel\bin\Debug\Resizelabel.exe
+c:\users\lucid\source\repos\Resizelabel\Resizelabel\bin\Debug\Resizelabel.pdb
+c:\users\lucid\source\repos\Resizelabel\Resizelabel\obj\Debug\Resizelabel.csprojAssemblyReference.cache
+c:\users\lucid\source\repos\Resizelabel\Resizelabel\obj\Debug\Resizelabel.Form1.resources
+c:\users\lucid\source\repos\Resizelabel\Resizelabel\obj\Debug\Resizelabel.Properties.Resources.resources
+c:\users\lucid\source\repos\Resizelabel\Resizelabel\obj\Debug\Resizelabel.csproj.GenerateResource.cache
+c:\users\lucid\source\repos\Resizelabel\Resizelabel\obj\Debug\Resizelabel.csproj.CoreCompileInputs.cache
+c:\users\lucid\source\repos\Resizelabel\Resizelabel\obj\Debug\Resizelabel.exe
+c:\users\lucid\source\repos\Resizelabel\Resizelabel\obj\Debug\Resizelabel.pdb

@@ -1,0 +1,9 @@
+D:\Sharukhss\incdec\TextRectangle\bin\Debug\TextRectangle.exe.config
+D:\Sharukhss\incdec\TextRectangle\bin\Debug\TextRectangle.exe
+D:\Sharukhss\incdec\TextRectangle\bin\Debug\TextRectangle.pdb
+D:\Sharukhss\incdec\TextRectangle\obj\Debug\TextRectangle.Form1.resources
+D:\Sharukhss\incdec\TextRectangle\obj\Debug\TextRectangle.Properties.Resources.resources
+D:\Sharukhss\incdec\TextRectangle\obj\Debug\TextRectangle.csproj.GenerateResource.cache
+D:\Sharukhss\incdec\TextRectangle\obj\Debug\TextRectangle.csproj.CoreCompileInputs.cache
+D:\Sharukhss\incdec\TextRectangle\obj\Debug\TextRectangle.exe
+D:\Sharukhss\incdec\TextRectangle\obj\Debug\TextRectangle.pdb

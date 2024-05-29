@@ -1,0 +1,11 @@
+C:\Users\Lucid\source\repos\LoginPAge\formcal\bin\Debug\formcal.exe.config
+C:\Users\Lucid\source\repos\LoginPAge\formcal\bin\Debug\formcal.exe
+C:\Users\Lucid\source\repos\LoginPAge\formcal\bin\Debug\formcal.pdb
+C:\Users\Lucid\source\repos\LoginPAge\formcal\obj\Debug\formcal.Form1.resources
+C:\Users\Lucid\source\repos\LoginPAge\formcal\obj\Debug\formcal.Properties.Resources.resources
+C:\Users\Lucid\source\repos\LoginPAge\formcal\obj\Debug\formcal.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\LoginPAge\formcal\obj\Debug\formcal.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\LoginPAge\formcal\obj\Debug\formcal.exe
+C:\Users\Lucid\source\repos\LoginPAge\formcal\obj\Debug\formcal.pdb
+C:\Users\Lucid\source\repos\LoginPAge\formcal\obj\Debug\formcal.Inputs.resources
+C:\Users\Lucid\source\repos\LoginPAge\formcal\obj\Debug\formcal.csprojAssemblyReference.cache

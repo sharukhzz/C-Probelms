@@ -1,0 +1,9 @@
+C:\Users\Lucid\source\repos\LoginPAge\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\Lucid\source\repos\LoginPAge\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\Lucid\source\repos\LoginPAge\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\Lucid\source\repos\LoginPAge\Rectangle\obj\Debug\Rectangle.Properties.Resources.resources
+C:\Users\Lucid\source\repos\LoginPAge\Rectangle\obj\Debug\Rectangle.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\LoginPAge\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\LoginPAge\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\Lucid\source\repos\LoginPAge\Rectangle\obj\Debug\Rectangle.pdb
+C:\Users\Lucid\source\repos\LoginPAge\Rectangle\obj\Debug\Rectangles.Form1.resources

@@ -1,0 +1,9 @@
+D:\Sharukhss\SpinBox\RegionMover\bin\Debug\RegionMover.exe.config
+D:\Sharukhss\SpinBox\RegionMover\bin\Debug\RegionMover.exe
+D:\Sharukhss\SpinBox\RegionMover\bin\Debug\RegionMover.pdb
+D:\Sharukhss\SpinBox\RegionMover\obj\Debug\RegionMover.Form1.resources
+D:\Sharukhss\SpinBox\RegionMover\obj\Debug\RegionMover.Properties.Resources.resources
+D:\Sharukhss\SpinBox\RegionMover\obj\Debug\RegionMover.csproj.GenerateResource.cache
+D:\Sharukhss\SpinBox\RegionMover\obj\Debug\RegionMover.csproj.CoreCompileInputs.cache
+D:\Sharukhss\SpinBox\RegionMover\obj\Debug\RegionMover.exe
+D:\Sharukhss\SpinBox\RegionMover\obj\Debug\RegionMover.pdb

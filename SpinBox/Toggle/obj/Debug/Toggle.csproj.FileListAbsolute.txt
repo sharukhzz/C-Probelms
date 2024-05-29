@@ -1,0 +1,10 @@
+D:\Sharukhss\SpinBox\Toggle\bin\Debug\Toggle.exe.config
+D:\Sharukhss\SpinBox\Toggle\bin\Debug\Toggle.exe
+D:\Sharukhss\SpinBox\Toggle\bin\Debug\Toggle.pdb
+D:\Sharukhss\SpinBox\Toggle\obj\Debug\Toggle.csprojAssemblyReference.cache
+D:\Sharukhss\SpinBox\Toggle\obj\Debug\Toggle.Properties.Resources.resources
+D:\Sharukhss\SpinBox\Toggle\obj\Debug\Toggle.csproj.GenerateResource.cache
+D:\Sharukhss\SpinBox\Toggle\obj\Debug\Toggle.csproj.CoreCompileInputs.cache
+D:\Sharukhss\SpinBox\Toggle\obj\Debug\Toggle.exe
+D:\Sharukhss\SpinBox\Toggle\obj\Debug\Toggle.pdb
+D:\Sharukhss\SpinBox\Toggle\obj\Debug\Toggle.Form1.resources

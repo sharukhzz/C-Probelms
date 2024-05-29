@@ -1,0 +1,11 @@
+D:\Sharukhss\incdec\RegionManager\bin\Debug\RegionManager.exe.config
+D:\Sharukhss\incdec\RegionManager\bin\Debug\RegionManager.exe
+D:\Sharukhss\incdec\RegionManager\bin\Debug\RegionManager.pdb
+D:\Sharukhss\incdec\RegionManager\obj\Debug\RegionManager.csprojAssemblyReference.cache
+D:\Sharukhss\incdec\RegionManager\obj\Debug\RegionManager.Form1.resources
+D:\Sharukhss\incdec\RegionManager\obj\Debug\RegionManager.Properties.Resources.resources
+D:\Sharukhss\incdec\RegionManager\obj\Debug\RegionManager.shapes.resources
+D:\Sharukhss\incdec\RegionManager\obj\Debug\RegionManager.csproj.GenerateResource.cache
+D:\Sharukhss\incdec\RegionManager\obj\Debug\RegionManager.csproj.CoreCompileInputs.cache
+D:\Sharukhss\incdec\RegionManager\obj\Debug\RegionManager.exe
+D:\Sharukhss\incdec\RegionManager\obj\Debug\RegionManager.pdb

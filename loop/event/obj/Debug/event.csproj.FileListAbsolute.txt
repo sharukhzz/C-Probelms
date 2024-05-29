@@ -1,0 +1,7 @@
+D:\Sharukhss\loop\event\obj\Debug\event.csprojAssemblyReference.cache
+D:\Sharukhss\loop\event\obj\Debug\event.csproj.CoreCompileInputs.cache
+D:\Sharukhss\loop\event\bin\Debug\@event.exe.config
+D:\Sharukhss\loop\event\bin\Debug\@event.exe
+D:\Sharukhss\loop\event\bin\Debug\@event.pdb
+D:\Sharukhss\loop\event\obj\Debug\@event.exe
+D:\Sharukhss\loop\event\obj\Debug\@event.pdb

@@ -1,0 +1,7 @@
+D:\Sharukhss\cc\string array combination\bin\Debug\string array combination.exe.config
+D:\Sharukhss\cc\string array combination\bin\Debug\string array combination.exe
+D:\Sharukhss\cc\string array combination\bin\Debug\string array combination.pdb
+D:\Sharukhss\cc\string array combination\obj\Debug\string array combination.csprojAssemblyReference.cache
+D:\Sharukhss\cc\string array combination\obj\Debug\string array combination.csproj.CoreCompileInputs.cache
+D:\Sharukhss\cc\string array combination\obj\Debug\string array combination.exe
+D:\Sharukhss\cc\string array combination\obj\Debug\string array combination.pdb

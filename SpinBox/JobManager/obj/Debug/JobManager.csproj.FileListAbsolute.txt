@@ -1,0 +1,11 @@
+D:\Sharukhss\SpinBox\JobManager\obj\Debug\JobManager.EditForm.resources
+D:\Sharukhss\SpinBox\JobManager\obj\Debug\JobManager.Form1.resources
+D:\Sharukhss\SpinBox\JobManager\obj\Debug\JobManager.Properties.Resources.resources
+D:\Sharukhss\SpinBox\JobManager\obj\Debug\JobManager.UserControls.resources
+D:\Sharukhss\SpinBox\JobManager\obj\Debug\JobManager.csproj.GenerateResource.cache
+D:\Sharukhss\SpinBox\JobManager\obj\Debug\JobManager.csproj.CoreCompileInputs.cache
+D:\Sharukhss\SpinBox\JobManager\bin\Debug\JobManager.exe.config
+D:\Sharukhss\SpinBox\JobManager\bin\Debug\JobManager.exe
+D:\Sharukhss\SpinBox\JobManager\bin\Debug\JobManager.pdb
+D:\Sharukhss\SpinBox\JobManager\obj\Debug\JobManager.exe
+D:\Sharukhss\SpinBox\JobManager\obj\Debug\JobManager.pdb

@@ -1,0 +1,12 @@
+D:\Sharukhss\incdec\StudentDetails\bin\Debug\StudentDetails.exe.config
+D:\Sharukhss\incdec\StudentDetails\bin\Debug\StudentDetails.exe
+D:\Sharukhss\incdec\StudentDetails\bin\Debug\StudentDetails.pdb
+D:\Sharukhss\incdec\StudentDetails\obj\Debug\StudentDetails.Form1.resources
+D:\Sharukhss\incdec\StudentDetails\obj\Debug\StudentDetails.Properties.Resources.resources
+D:\Sharukhss\incdec\StudentDetails\obj\Debug\StudentDetails.csproj.GenerateResource.cache
+D:\Sharukhss\incdec\StudentDetails\obj\Debug\StudentDetails.csproj.CoreCompileInputs.cache
+D:\Sharukhss\incdec\StudentDetails\obj\Debug\StudentDetails.exe
+D:\Sharukhss\incdec\StudentDetails\obj\Debug\StudentDetails.pdb
+D:\Sharukhss\incdec\StudentDetails\obj\Debug\StudentDetails.UserControl1.resources
+D:\Sharukhss\incdec\StudentDetails\obj\Debug\StudentDetails.csprojAssemblyReference.cache
+D:\Sharukhss\incdec\StudentDetails\obj\Debug\StudentDetails.Form2.resources

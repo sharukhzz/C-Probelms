@@ -1,0 +1,7 @@
+C:\Users\Lucid\source\repos\evaluation 2\evaluation 2\bin\Debug\evaluation 2.exe.config
+C:\Users\Lucid\source\repos\evaluation 2\evaluation 2\bin\Debug\evaluation 2.exe
+C:\Users\Lucid\source\repos\evaluation 2\evaluation 2\bin\Debug\evaluation 2.pdb
+C:\Users\Lucid\source\repos\evaluation 2\evaluation 2\obj\Debug\evaluation 2.csprojAssemblyReference.cache
+C:\Users\Lucid\source\repos\evaluation 2\evaluation 2\obj\Debug\evaluation 2.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\evaluation 2\evaluation 2\obj\Debug\evaluation 2.exe
+C:\Users\Lucid\source\repos\evaluation 2\evaluation 2\obj\Debug\evaluation 2.pdb

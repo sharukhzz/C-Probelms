@@ -1,0 +1,7 @@
+D:\Sharukhss\publi get and set\COLLEGE\bin\Debug\COLLEGE.exe.config
+D:\Sharukhss\publi get and set\COLLEGE\bin\Debug\COLLEGE.exe
+D:\Sharukhss\publi get and set\COLLEGE\bin\Debug\COLLEGE.pdb
+D:\Sharukhss\publi get and set\COLLEGE\obj\Debug\COLLEGE.csprojAssemblyReference.cache
+D:\Sharukhss\publi get and set\COLLEGE\obj\Debug\COLLEGE.csproj.CoreCompileInputs.cache
+D:\Sharukhss\publi get and set\COLLEGE\obj\Debug\COLLEGE.exe
+D:\Sharukhss\publi get and set\COLLEGE\obj\Debug\COLLEGE.pdb

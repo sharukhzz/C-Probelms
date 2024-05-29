@@ -1,0 +1,14 @@
+c:\users\lucid\source\repos\shapes\shapes\obj\Debug\shapes.csprojAssemblyReference.cache
+c:\users\lucid\source\repos\shapes\shapes\obj\Debug\shapes.csproj.CoreCompileInputs.cache
+c:\users\lucid\source\repos\shapes\shapes\bin\Debug\shapes.exe.config
+c:\users\lucid\source\repos\shapes\shapes\bin\Debug\shapes.exe
+c:\users\lucid\source\repos\shapes\shapes\bin\Debug\shapes.pdb
+c:\users\lucid\source\repos\shapes\shapes\obj\Debug\shapes.exe
+c:\users\lucid\source\repos\shapes\shapes\obj\Debug\shapes.pdb
+D:\Sharukhss\shapes\shapes\bin\Debug\shapes.exe.config
+D:\Sharukhss\shapes\shapes\bin\Debug\shapes.exe
+D:\Sharukhss\shapes\shapes\bin\Debug\shapes.pdb
+D:\Sharukhss\shapes\shapes\obj\Debug\shapes.csprojAssemblyReference.cache
+D:\Sharukhss\shapes\shapes\obj\Debug\shapes.csproj.CoreCompileInputs.cache
+D:\Sharukhss\shapes\shapes\obj\Debug\shapes.exe
+D:\Sharukhss\shapes\shapes\obj\Debug\shapes.pdb

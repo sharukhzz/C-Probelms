@@ -1,0 +1,10 @@
+C:\Users\Lucid\source\repos\LoginPAge\LoginPAge\bin\Debug\LoginPAge.exe.config
+C:\Users\Lucid\source\repos\LoginPAge\LoginPAge\bin\Debug\LoginPAge.exe
+C:\Users\Lucid\source\repos\LoginPAge\LoginPAge\bin\Debug\LoginPAge.pdb
+C:\Users\Lucid\source\repos\LoginPAge\LoginPAge\obj\Debug\LoginPAge.Form1.resources
+C:\Users\Lucid\source\repos\LoginPAge\LoginPAge\obj\Debug\LoginPAge.Properties.Resources.resources
+C:\Users\Lucid\source\repos\LoginPAge\LoginPAge\obj\Debug\LoginPAge.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\LoginPAge\LoginPAge\obj\Debug\LoginPAge.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\LoginPAge\LoginPAge\obj\Debug\LoginPAge.exe
+C:\Users\Lucid\source\repos\LoginPAge\LoginPAge\obj\Debug\LoginPAge.pdb
+C:\Users\Lucid\source\repos\LoginPAge\LoginPAge\obj\Debug\LoginPAge.Form2.resources

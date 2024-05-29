@@ -1,0 +1,10 @@
+D:\Sharukhss\TrainingNew\pagination\bin\Debug\pagination.exe.config
+D:\Sharukhss\TrainingNew\pagination\bin\Debug\pagination.exe
+D:\Sharukhss\TrainingNew\pagination\bin\Debug\pagination.pdb
+D:\Sharukhss\TrainingNew\pagination\obj\Debug\pagination.csprojAssemblyReference.cache
+D:\Sharukhss\TrainingNew\pagination\obj\Debug\pagination.Form1.resources
+D:\Sharukhss\TrainingNew\pagination\obj\Debug\pagination.Properties.Resources.resources
+D:\Sharukhss\TrainingNew\pagination\obj\Debug\pagination.csproj.GenerateResource.cache
+D:\Sharukhss\TrainingNew\pagination\obj\Debug\pagination.csproj.CoreCompileInputs.cache
+D:\Sharukhss\TrainingNew\pagination\obj\Debug\pagination.exe
+D:\Sharukhss\TrainingNew\pagination\obj\Debug\pagination.pdb

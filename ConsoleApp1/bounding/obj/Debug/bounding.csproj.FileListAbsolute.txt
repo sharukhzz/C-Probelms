@@ -1,0 +1,7 @@
+D:\Sharukhss\ConsoleApp1\bounding\bin\Debug\bounding.exe.config
+D:\Sharukhss\ConsoleApp1\bounding\bin\Debug\bounding.exe
+D:\Sharukhss\ConsoleApp1\bounding\bin\Debug\bounding.pdb
+D:\Sharukhss\ConsoleApp1\bounding\obj\Debug\bounding.csprojAssemblyReference.cache
+D:\Sharukhss\ConsoleApp1\bounding\obj\Debug\bounding.csproj.CoreCompileInputs.cache
+D:\Sharukhss\ConsoleApp1\bounding\obj\Debug\bounding.exe
+D:\Sharukhss\ConsoleApp1\bounding\obj\Debug\bounding.pdb

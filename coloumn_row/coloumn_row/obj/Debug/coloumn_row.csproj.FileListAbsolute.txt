@@ -1,0 +1,10 @@
+D:\Sharukhss\coloumn_row\coloumn_row\bin\Debug\coloumn_row.exe.config
+D:\Sharukhss\coloumn_row\coloumn_row\bin\Debug\coloumn_row.exe
+D:\Sharukhss\coloumn_row\coloumn_row\bin\Debug\coloumn_row.pdb
+D:\Sharukhss\coloumn_row\coloumn_row\obj\Debug\coloumn_row.csprojAssemblyReference.cache
+D:\Sharukhss\coloumn_row\coloumn_row\obj\Debug\coloumn_row.Form1.resources
+D:\Sharukhss\coloumn_row\coloumn_row\obj\Debug\coloumn_row.Properties.Resources.resources
+D:\Sharukhss\coloumn_row\coloumn_row\obj\Debug\coloumn_row.csproj.GenerateResource.cache
+D:\Sharukhss\coloumn_row\coloumn_row\obj\Debug\coloumn_row.csproj.CoreCompileInputs.cache
+D:\Sharukhss\coloumn_row\coloumn_row\obj\Debug\coloumn_row.exe
+D:\Sharukhss\coloumn_row\coloumn_row\obj\Debug\coloumn_row.pdb

@@ -1,0 +1,14 @@
+D:\Sharukhss\cc\rat in maze\bin\Debug\rat in maze.exe.config
+D:\Sharukhss\cc\rat in maze\bin\Debug\rat in maze.exe
+D:\Sharukhss\cc\rat in maze\bin\Debug\rat in maze.pdb
+D:\Sharukhss\cc\rat in maze\obj\Debug\rat in maze.csprojAssemblyReference.cache
+D:\Sharukhss\cc\rat in maze\obj\Debug\rat in maze.csproj.CoreCompileInputs.cache
+D:\Sharukhss\cc\rat in maze\obj\Debug\rat in maze.exe
+D:\Sharukhss\cc\rat in maze\obj\Debug\rat in maze.pdb
+D:\Sharukhss\dynamic\rat in maze\bin\Debug\rat in maze.exe.config
+D:\Sharukhss\dynamic\rat in maze\bin\Debug\rat in maze.exe
+D:\Sharukhss\dynamic\rat in maze\bin\Debug\rat in maze.pdb
+D:\Sharukhss\dynamic\rat in maze\obj\Debug\rat in maze.csprojAssemblyReference.cache
+D:\Sharukhss\dynamic\rat in maze\obj\Debug\rat in maze.csproj.CoreCompileInputs.cache
+D:\Sharukhss\dynamic\rat in maze\obj\Debug\rat in maze.exe
+D:\Sharukhss\dynamic\rat in maze\obj\Debug\rat in maze.pdb

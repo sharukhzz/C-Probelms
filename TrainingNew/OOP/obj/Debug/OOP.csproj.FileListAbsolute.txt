@@ -1,0 +1,10 @@
+D:\Sharukhss\TrainingNew\OOP\bin\Debug\OOP.exe.config
+D:\Sharukhss\TrainingNew\OOP\bin\Debug\OOP.exe
+D:\Sharukhss\TrainingNew\OOP\bin\Debug\OOP.pdb
+D:\Sharukhss\TrainingNew\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+D:\Sharukhss\TrainingNew\OOP\obj\Debug\OOP.ClassesForm1.resources
+D:\Sharukhss\TrainingNew\OOP\obj\Debug\OOP.Properties.Resources.resources
+D:\Sharukhss\TrainingNew\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+D:\Sharukhss\TrainingNew\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\Sharukhss\TrainingNew\OOP\obj\Debug\OOP.exe
+D:\Sharukhss\TrainingNew\OOP\obj\Debug\OOP.pdb

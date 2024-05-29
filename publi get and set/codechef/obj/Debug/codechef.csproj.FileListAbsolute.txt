@@ -1,0 +1,7 @@
+D:\Sharukhss\publi get and set\codechef\obj\Debug\codechef.csprojAssemblyReference.cache
+D:\Sharukhss\publi get and set\codechef\obj\Debug\codechef.csproj.CoreCompileInputs.cache
+D:\Sharukhss\publi get and set\codechef\bin\Debug\codechef.exe.config
+D:\Sharukhss\publi get and set\codechef\bin\Debug\codechef.exe
+D:\Sharukhss\publi get and set\codechef\bin\Debug\codechef.pdb
+D:\Sharukhss\publi get and set\codechef\obj\Debug\codechef.exe
+D:\Sharukhss\publi get and set\codechef\obj\Debug\codechef.pdb

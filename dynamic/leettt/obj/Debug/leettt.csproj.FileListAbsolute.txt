@@ -1,0 +1,7 @@
+D:\Sharukhss\cc\leettt\bin\Debug\leettt.exe.config
+D:\Sharukhss\cc\leettt\bin\Debug\leettt.exe
+D:\Sharukhss\cc\leettt\bin\Debug\leettt.pdb
+D:\Sharukhss\cc\leettt\obj\Debug\leettt.csprojAssemblyReference.cache
+D:\Sharukhss\cc\leettt\obj\Debug\leettt.csproj.CoreCompileInputs.cache
+D:\Sharukhss\cc\leettt\obj\Debug\leettt.exe
+D:\Sharukhss\cc\leettt\obj\Debug\leettt.pdb
